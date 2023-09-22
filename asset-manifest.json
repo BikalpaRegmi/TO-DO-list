@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BikalpaRegmi/static/css/main.2714f48c.css",
+    "main.js": "/BikalpaRegmi/static/js/main.9a2e211b.js",
+    "index.html": "/BikalpaRegmi/index.html",
+    "main.2714f48c.css.map": "/BikalpaRegmi/static/css/main.2714f48c.css.map",
+    "main.9a2e211b.js.map": "/BikalpaRegmi/static/js/main.9a2e211b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2714f48c.css",
+    "static/js/main.9a2e211b.js"
+  ]
+}
